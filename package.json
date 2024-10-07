@@ -1,0 +1,14 @@
+{
+  "name": "int-u2l5-23-24-student-exercises",
+  "version": "1.0.0",
+  "description": "## 🎯 Objectives Coders will: - Understand the importance of linking CSS to HTML both internally and externally. - Explore the purpose and use of documentation in coding. - Learn how to navigate resources like Code Nation Reference Table and W3Schools. - Understand how to import styles using Bootstrap. - Learn how to work with Replit and GitHub, including forking a repository and pushing changes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
